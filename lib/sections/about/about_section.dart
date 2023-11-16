@@ -42,7 +42,7 @@ class AboutSection extends StatelessWidget {
                     text: "Download CV",
                     press: () {
                       openUrlInNewTab(
-                          "https://drive.google.com/file/d/1bOTL1dGlc4NHsc-IYsVESPdoCQkHXhjU/view?usp=sharing");
+                          "https://drive.google.com/uc?export=download&id=1bOTL1dGlc4NHsc-IYsVESPdoCQkHXhjU");
                     },
                   ),
                 ],
