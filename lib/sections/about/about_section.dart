@@ -28,7 +28,7 @@ class AboutSection extends StatelessWidget {
                   const Expanded(
                     child: AboutSectionText(
                       text:
-                          "» Desenvolvedor full stack com experiência em desenvolvimento de aplicações web e mobile.\n» Atualmente trabalhando com Dart e Flutter, porem tenho experiência em JavaScript, ReactJS, NextJs, NodeJS, Tailwind, entre outras tecnologias. \n» Minhas principais ferramentas de trabalho são VS Code, Figma, Git, GitHub, Docker e Insomnia. \n» Tenho experiência em GitFlow e em metodologias ágeis, como Scrum e Kanban. \n» Sou apaixonado por tecnologia, em um processo de transição de carreira, estou sempre buscando aprender novas tecnologias e aprimorar meus conhecimentos.",
+                          "» Desenvolvedor full stack com experiência em desenvolvimento de aplicações web e mobile.\n» Atualmente trabalhando na area mobile com Dart e Flutter, porem tenho experiência em JavaScript, ReactJS, NextJs, NodeJS, Tailwind, entre outras tecnologias. \n» Minhas principais ferramentas de trabalho são VS Code, Figma, Git, GitHub, Docker e Insomnia. \n» Tenho experiência em GitFlow e em metodologias ágeis, como Scrum e Kanban. \n» Sou apaixonado por tecnologia, em um processo de transição de carreira, estou sempre buscando aprender novas tecnologias e aprimorar meus conhecimentos.",
                     ),
                   ),
                 ],
