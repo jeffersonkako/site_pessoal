@@ -25,7 +25,7 @@ class _TechCardState extends State<TechCard> {
     return InkWell(
       onTap: () {
         final url = techs[widget.index].url;
-        openUrlInNewTab(url); // Função para ab
+        openUrlInNewTab(url);
       },
       onHover: (value) {
         setState(() {
