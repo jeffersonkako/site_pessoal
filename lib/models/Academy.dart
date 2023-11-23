@@ -97,7 +97,8 @@ List<Academy> academys = [
       ),
       ReviewSection(
         title: "Tecnologias: ",
-        content: "Html, Css, JavaScript, JQuery, Ajax, SQL, Java, Spring, Maven",
+        content:
+            "Html, Css, JavaScript, JQuery, Ajax, SQL, Java, Spring, Maven",
       ),
     ],
     urlSite: "https://ebaconline.com.br/back-end-java-profession",
@@ -105,20 +106,20 @@ List<Academy> academys = [
   ),
   Academy(
     id: 5,
-    name: "Alura",
-    img: "assets/images/alura.png",
+    name: "Academia do Flutter",
+    img: "assets/images/adf.jpeg",
     color: const Color.fromARGB(255, 236, 235, 235),
     reviewSections: [
       ReviewSection(
         title: "Curso: ",
-        content: "Formação Front-end",
+        content: "Formação Flutter",
       ),
       ReviewSection(
         title: "Tecnologias: ",
-        content: "HTML, CSS, JavaScript, TypeScript, React, NextJs, Git",
+        content: "Dart, Flutter, Firebase, Bloc, MobX",
       ),
     ],
-    urlSite: "https://www.alura.com.br/formacao-javascript-front-end",
+    urlSite: "https://novo.academiadoflutter.com.br/",
     urlCertificate: "https://jefferson.dev",
   ),
   Academy(
