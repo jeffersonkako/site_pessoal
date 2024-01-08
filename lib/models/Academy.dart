@@ -41,7 +41,7 @@ List<Academy> academys = [
       ReviewSection(
         title: "Tecnologias: ",
         content:
-            "HTML, CSS, JavaScript, TypeScript, React, Bootstrap, NextJs, PHP, Java, C#, Python, Git",
+            "HTML, CSS, JavaScript, TypeScript, React, Next, Bootstrap, TailWind, NextJs, C#, Python, Flutter, React Native, Git",
       ),
     ],
     urlSite: "https://estacio.br/cursos/graduacao/desenvolvimento-full-stack",
@@ -75,14 +75,14 @@ List<Academy> academys = [
     reviewSections: [
       ReviewSection(
         title: "Curso: ",
-        content: "Mobile Developer Flutter",
+        content: "Mobile Developer React Native",
       ),
       ReviewSection(
         title: "Tecnologias: ",
-        content: "Dart, Fluuter, Firebase, Git, GitHub, Android Studio, VSCode",
+        content: "Js, React Native, Expo, Git, GitHub",
       ),
     ],
-    urlSite: "https://www.alura.com.br/formacao-flutter",
+    urlSite: "https://www.alura.com.br/formacao-react-native",
     urlCertificate: "https://jefferson.dev",
   ),
   Academy(
@@ -93,15 +93,14 @@ List<Academy> academys = [
     reviewSections: [
       ReviewSection(
         title: "Curso: ",
-        content: "Full Stack Java",
+        content: "Engenheiro Front-End",
       ),
       ReviewSection(
         title: "Tecnologias: ",
-        content:
-            "Html, Css, JavaScript, JQuery, Ajax, SQL, Java, Spring, Maven",
+        content: "Html, Css, JavaScript, React, Sass, JQuery, Ajax, SQL",
       ),
     ],
-    urlSite: "https://ebaconline.com.br/back-end-java-profession",
+    urlSite: "https://ebaconline.com.br/front-end-profession",
     urlCertificate: "https://jefferson.dev",
   ),
   Academy(
@@ -116,7 +115,7 @@ List<Academy> academys = [
       ),
       ReviewSection(
         title: "Tecnologias: ",
-        content: "Dart, Flutter, Firebase, Bloc, MobX",
+        content: "Dart, Flutter, Firebase, Bloc, MobX, AWS, Git",
       ),
     ],
     urlSite: "https://novo.academiadoflutter.com.br/",
@@ -135,7 +134,7 @@ List<Academy> academys = [
       ReviewSection(
         title: "Tecnologias: ",
         content:
-            "HTML, CSS, JavaScript, TypeScript, React, NextJs, Git, Figma, Adobe XD",
+            "Html, Css, JavaScript, TypeScript, React, Nextjs, Tailwind, Git, Figma, Adobe XD",
       ),
     ],
     urlSite: "https://www.origamid.com/",
