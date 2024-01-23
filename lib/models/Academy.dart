@@ -97,7 +97,8 @@ List<Academy> academys = [
       ),
       ReviewSection(
         title: "Tecnologias: ",
-        content: "Html, Css, JavaScript, React, Sass, JQuery, Ajax, SQL",
+        content:
+            "Html, Css, JavaScript, React, Vuejs, Nuxt, Sass, JQuery, Ajax, SQL",
       ),
     ],
     urlSite: "https://ebaconline.com.br/front-end-profession",

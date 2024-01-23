@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import '../../../constants.dart';
+import 'package:site_pessoal/constants.dart';
 
 class GlassContent extends StatelessWidget {
   const GlassContent({
