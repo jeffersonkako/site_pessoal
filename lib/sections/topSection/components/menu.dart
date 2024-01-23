@@ -65,7 +65,7 @@ class _MenuState extends State<Menu> {
     return InkWell(
       onTap: () {
         setState(() {
-          selectedIndex = index; // Atualiza o índice selecionado
+          selectedIndex = index;
         });
         widget.scrollToSection(index);
       },
