@@ -72,7 +72,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/github.png",
             press: () {
-              openUrlInNewTab("https://github.com/jeffersonkako");
+              openUrlInNewTab("https://github.com/jeffersonponte");
             },
           ),
           const SizedBox(width: 10),
@@ -80,7 +80,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/x.png",
             press: () {
-              openUrlInNewTab("https://x.com/ojeffersondev");
+              openUrlInNewTab("https://x.com/ojeffersonponte");
             },
           ),
           const SizedBox(width: 10), // Espaço de 10 pixels entre os SocialCard
@@ -88,7 +88,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/instagram.png",
             press: () {
-              openUrlInNewTab("https://instagram.com/ojeffersondev");
+              openUrlInNewTab("https://instagram.com/ojeffersonponte");
             },
           ),
           const SizedBox(width: 10), // Espaço de 10 pixels entre os SocialCard
@@ -96,7 +96,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/linkedin.png",
             press: () {
-              openUrlInNewTab("https://www.linkedin.com/in/jeffersonkako/");
+              openUrlInNewTab("https://www.linkedin.com/in/jeffersonponte/");
             },
           ),
         ],
@@ -134,28 +134,28 @@ class ContactBoxWrap extends StatelessWidget {
                 color: const Color.fromARGB(255, 236, 235, 235),
                 iconSrc: "assets/images/github.png",
                 press: () {
-                  openUrlInNewTab("https://github.com/jeffersonkako");
+                  openUrlInNewTab("https://github.com/jeffersonponte");
                 },
               ),
               SocialCard(
                 color: const Color.fromARGB(255, 236, 235, 235),
                 iconSrc: "assets/images/x.png",
                 press: () {
-                  openUrlInNewTab("https://x.com/jeffersonkako");
+                  openUrlInNewTab("https://x.com/ojeffersonponte");
                 },
               ),
               SocialCard(
                 color: const Color.fromARGB(255, 236, 235, 235),
                 iconSrc: "assets/images/instagram.png",
                 press: () {
-                  openUrlInNewTab("https://instagram.com/jeffersonkako");
+                  openUrlInNewTab("https://instagram.com/ojeffersonponte");
                 },
               ),
               SocialCard(
                 color: const Color.fromARGB(255, 236, 235, 235),
                 iconSrc: "assets/images/linkedin.png",
                 press: () {
-                  openUrlInNewTab("https://www.linkedin.com/in/jeffersonkako/");
+                  openUrlInNewTab("https://www.linkedin.com/in/jeffersonponte/");
                 },
               ),
             ],
