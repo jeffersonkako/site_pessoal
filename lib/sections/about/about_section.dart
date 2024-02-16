@@ -28,7 +28,7 @@ class AboutSection extends StatelessWidget {
                   const Expanded(
                     child: AboutSectionText(
                       text:
-                          "» Desenvolvedor front-end com experiência em desenvolvimento de aplicações web e mobile.\n» Atualmente trabalhando na área mobile com Dart e Flutter, porem tenho experiência em JavaScript, ReactJS, React Native, NextJs, NodeJS, Tailwind, entre outras tecnologias. \n» Minhas principais ferramentas de trabalho são VS Code, Figma, Git, GitHub e Docker. \n» Tenho experiência em GitFlow e em metodologias ágeis, como Scrum e Kanban. \n» Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos.",
+                          "» Desenvolvedor de software especializado em aplicações web e mobile.\n» Atualmente trabalhando na área mobile com Dart e Flutter, possuo também conhecimento em JavaScript, ReactJS, React Native, NextJs, NodeJS, Tailwind e Python. \n» Minhas principais ferramentas de trabalho são VS Code, Figma, Git, GitHub e Docker. \n» Tenho experiência em GitFlow e em metodologias ágeis, como Scrum e Kanban. \n» Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos.",
                     ),
                   ),
                 ],
@@ -42,7 +42,7 @@ class AboutSection extends StatelessWidget {
                     text: "Download CV",
                     press: () {
                       openUrlInNewTab(
-                          "https://drive.google.com/uc?export=download&id=1Qha3a7yQNsIj_Fsnst30055qPoZGYky5");
+                          "https://drive.google.com/uc?export=download&id=1wqcM5_op1SIGJNVZ-aEG5cIsyXDmAEGR");
                     },
                   ),
                 ],
