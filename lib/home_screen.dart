@@ -39,15 +39,12 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         backgroundColor: Colors.black,
         elevation: 0,
-        title: Menu(
-            scrollToSection:
-                scrollToSection), // Adicione o Menu como título da AppBar
+        title: Menu(scrollToSection: scrollToSection),
       ),
       body: SingleChildScrollView(
         controller: scrollController,
         child: const Column(
           children: [
-            // Remova o Menu daqui, pois agora está na AppBar
             TopSection(),
             SizedBox(height: kDefaultPadding),
             AboutSection(),

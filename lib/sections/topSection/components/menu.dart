@@ -30,8 +30,7 @@ class _MenuState extends State<Menu> {
       centerTitle: true,
       title: MediaQuery.of(context).size.width < 1000
           ? PopupMenuButton<int>(
-              icon: const Icon(Icons.menu,
-                  size: 40, color: Colors.white), // Ícone de menu de hamburguer
+              icon: const Icon(Icons.menu, size: 40, color: Colors.white),
               itemBuilder: (context) {
                 return List<PopupMenuEntry<int>>.generate(
                   menuItems.length,
