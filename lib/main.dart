@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Jefferson.dev',
       theme: ThemeData(
         inputDecorationTheme: kDefaultInputDecorationTheme,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
+        
       ),
       home: const HomeScreen(),
     );
