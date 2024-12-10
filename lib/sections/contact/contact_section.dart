@@ -72,7 +72,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/github.png",
             press: () {
-              openUrlInNewTab("https://github.com/jeffersonponte");
+              openUrlInNewTab("https://github.com/jeffersokako");
             },
           ),
           const SizedBox(width: 10),
@@ -80,7 +80,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/x.png",
             press: () {
-              openUrlInNewTab("https://x.com/ojeffersonponte");
+              openUrlInNewTab("https://x.com/jeffersonkako");
             },
           ),
           const SizedBox(width: 10), // Espaço de 10 pixels entre os SocialCard
@@ -88,7 +88,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/instagram.png",
             press: () {
-              openUrlInNewTab("https://instagram.com/ojeffersonponte");
+              openUrlInNewTab("https://instagram.com/jeffersonppessoa");
             },
           ),
           const SizedBox(width: 10), // Espaço de 10 pixels entre os SocialCard
@@ -96,7 +96,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/linkedin.png",
             press: () {
-              openUrlInNewTab("https://www.linkedin.com/in/jeffersonponte/");
+              openUrlInNewTab("https://www.linkedin.com/in/jeffersonppessoa/");
             },
           ),
         ],
