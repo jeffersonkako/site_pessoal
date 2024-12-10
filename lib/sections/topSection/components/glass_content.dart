@@ -35,7 +35,7 @@ class GlassContent extends StatelessWidget {
               ),
             ),
             Text(
-              "Software Developer",
+              "Full Stack Developer",
               style: Theme.of(context)
                   .textTheme
                   .headlineSmall!
