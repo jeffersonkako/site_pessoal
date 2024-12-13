@@ -72,7 +72,7 @@ class ContactBoxRow extends StatelessWidget {
             color: const Color.fromARGB(255, 236, 235, 235),
             iconSrc: "assets/images/github.png",
             press: () {
-              openUrlInNewTab("https://github.com/jeffersokako");
+              openUrlInNewTab("https://github.com/jeffersonkako");
             },
           ),
           const SizedBox(width: 10),
