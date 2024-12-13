@@ -46,7 +46,7 @@ List<Academy> academys = [
     ],
     urlSite: "https://estacio.br/cursos/graduacao/desenvolvimento-full-stack",
     urlCertificate:
-        "https://drive.google.com/file/d/1li0o3jw76PUI-ISWJnLP-w8VAoL9sVPT/view",
+        "https://drive.google.com/drive/folders/1xEJlOOsTFRWqdG_9ZTfopA13Izn0LSJp?usp=sharing",
   ),
   Academy(
     id: 2,
