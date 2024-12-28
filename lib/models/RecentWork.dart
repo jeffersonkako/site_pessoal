@@ -57,11 +57,4 @@ List<RecentWork> recentWorks = [
     image: "assets/images/kipsmart.png",
     url: "https://jefferson.dev/",
   ),
-  RecentWork(
-    id: 7,
-    title: "Atualização Site Local - Dekra Ceará, em desenvolvimento ...",
-    category: "Javascript, Vuejs, Nuxt, Tailwind",
-    image: "assets/images/dekraceara.png",
-    url: "https://dekrabrasil.com.br/ceara/",
-  ),
 ];
